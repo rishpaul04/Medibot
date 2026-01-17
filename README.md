@@ -45,7 +45,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/yourusername/medibot.git
+git clone https://github.com/rishpaul04/medibot.git
 cd medibot
 Install dependencies:
 
