@@ -19,6 +19,7 @@ Memory & Context: Uses LangChain to orchestrate the retrieval and generation pip
 Interactive UI: Clean, responsive chat interface built with Bootstrap, HTML, and JS.
 
 🛠️ Tech Stack
+
 Backend: Python, Flask
 
 LLM Engine: Groq (Llama-3.3-70b-versatile)
